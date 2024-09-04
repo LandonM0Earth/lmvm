@@ -1,0 +1,16 @@
+{
+    "name": "LMVM TR",
+    "short_name": "LMVM",
+    "description": "LMVM Third Release",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#030303",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "icon-210x210.png",
+        "sizes": "210x210",
+        "type": "image/png"
+      }
+    ]
+  }
